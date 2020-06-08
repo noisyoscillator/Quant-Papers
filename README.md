@@ -6,3 +6,6 @@
 [The Path Integral Approach to Financial Modeling and Options Pricing](https://doi.org/10.1023/A:1008658226761)
 
 [An introduction to Lévy processes with applications in finance](https://arxiv.org/abs/0804.0482)
+
+
+[The quantum field model for treasury forward interest rate](http://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.67.20180424)
