@@ -9,3 +9,13 @@
 
 
 [The quantum field model for treasury forward interest rate](http://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.67.20180424)
+
+[Numerical Solution of
+Stochastic Differential Equations
+in Finance
+Timothy Sauer] 
+
+[An introduction to numerical methods for stochastic differential equations](https://doi.org/10.1017/S0962492900002920)
+
+
+
