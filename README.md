@@ -60,5 +60,101 @@ processes
 
 Change-point tests and the bootstrap under long- and short-range dependence
 
+A computational method for stochastic impulse control problems
+
+Simulation based portfolio optimization for large portfolios with transaction costs
+
+Multi-dimensional portfolio optimization with proportional transaction cost
+
+A moving boundary approach to American option pricing
+
+Solving Free-boundary Problems with Applications in Finance
+
+Correlation cascades of Lévy-driven random processes
+
+The dependence structure of the fractional Ornstein–Uhlenbeck process
+
+Short and long memory fractional Ornstein–Uhlenbeck alpha-stable processes
+
+Fractional Langevin equation with alpha-stable noise. A link to fractional ARIMA time series
+
+Extreme value theory, ergodic theory and the boundary between short memory and long memory for stationary stable processes
+
+P. Cheridito, H. Kawaguchi, M. Maejima
+Fractional Ornstein–Uhlenbeck processes
+Electron. J. Probab., 8 (2003), pp. 1-14
+
+Fat tails, VaR and subadditivity
+
+Subadditivity re-examined: the case for Value-at-Risk
+
+Heavy tails and long range dependence in on/off processes and associated fluid models
+
+The supremum of a negative drift random walk with dependent heavy-tailed steps
+
+Risk forecasting in the context of time series
+
+Multiple thresholds in extremal parameter estimation
+
+Extremal theory for long range dependent infinitely divisible processes
+
+Ruin probabilities in classical risk models with gamma claims
+
+Closed-form Ruin Probabilities in Classical Risk Models with Gamma Claims
+
+Poisson Process Driven Stochastic Differential Equations for Bivariate
+Heavy Tailed Distributions
+
+Stochastic Differential Equations for Power Law Behaviors
+
+Tail inference: where does the tail begin?
+
+System and method for estimating portfolio risk using an infinitely divisible distribution
+
+Multivariate tail measure and the estimation of CoVar
+
+System and method for generating random vectors for estimating portfolio risk (CREDIT RISK)
+
+Tail measures of stochastic processes or random fields with regularly varying tails
+
+Distribution of the supremum location of stationary processes
+
+Understanding heavy tails in a bounded world or, is a truncated heavy tail heavy or not?
+
+Large deviations for point processes based on stationary sequences with heavy tails
+
+Do financial returns have finite or infinite variance? A paradox and an explanation
+
+Alternative frequency and time domain versions of fractional Brownian motion
+
+Tail probabilities for infinite series of regularly varying random vectors
+
+LARGE DEVIATIONS FOR POINT PROCESSES BASED ON HEAVY-TAILED SEQUENCES
+
+Characteristic function for the stationary state of a one-dimensional dynamical system with Lévy noise
+
+Computing the portfolio conditional value-at-risk in the alpha-stable case
+
+Tails of solutions of certain nonlinear stochastic differential equations driven by heavy tailed Lévy motions
+
+Extreme value theory, ergodic theory and the boundary between short memory and long memory for stationary stable processes
+
+Dynamic Systems Driven by Poisson/Lévy White Noise
+
+Ruin problem and how fast stochastic processes mix
+
+Long range dependence in heavy tailed stochastic processes
+
+Tail probabilities of subadditive functionals of Lévy processes
+
+[Random matrix theory in statistics: A review](https://doi.org/10.1016/j.jspi.2013.09.005)
+
+[High dimensional statistical inference and random matrices](https://www.ems-ph.org/books/show_abstract.php?proj_nr=39&vol=1&rank=13)
+
+The eigenstructure of the sample covariance matrices of high-dimensional stochastic volatility models with heavy tails
+
+
+
+
 
 
