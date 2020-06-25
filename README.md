@@ -125,6 +125,7 @@ Large deviations for point processes based on stationary sequences with heavy ta
 
 Do financial returns have finite or infinite variance? A paradox and an explanation
 
+FINANCIAL MARKETS WITH NO RISKLESS (SAFE) ASSET
 Alternative frequency and time domain versions of fractional Brownian motion
 
 Tail probabilities for infinite series of regularly varying random vectors
