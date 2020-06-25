@@ -153,6 +153,8 @@ Tail probabilities of subadditive functionals of Lévy processes
 
 The eigenstructure of the sample covariance matrices of high-dimensional stochastic volatility models with heavy tails
 
+Inefficiency and bias of modified value-at-risk and expected shortfall
+
 
 
 
