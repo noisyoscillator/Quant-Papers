@@ -156,6 +156,8 @@ The eigenstructure of the sample covariance matrices of high-dimensional stochas
 
 Inefficiency and bias of modified value-at-risk and expected shortfall
 
+[Frontiers in Time Series and Financial Econometrics](https://www.sciencedirect.com/journal/journal-of-econometrics/vol/189/issue/2)
+
 
 
 
