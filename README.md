@@ -186,7 +186,43 @@ Inefficiency and bias of modified value-at-risk and expected shortfall
 
 [Stochastic Interest Rate Models with Memory: Long-Term Behavior](https://doi.org/10.1007/978-3-319-46979-9_5)
 
-Mathematics of Finance: Proceedings of an AMS-IMS-SIAM Joint Summer Research
+## Mathematics of Finance: Proceedings of an AMS-IMS-SIAM Joint Summer Research
+
+**Articles
+
+Claudio Albanese and Oliver X. Chen – Credit barrier models in a discrete framework [MR 2076286]
+Pauline Barrieu and Nicole El Karoui – Optimal derivatives design under dynamic risk measures [MR 2076287]
+Jȩdrzej Białkowski and Jacek Jakubowski – On pricing of forward and futures contracts on zero-coupon bonds in the Cox-Ingersoll-Ross model [MR 2076288]
+Tomasz R. Bielecki, Monique Jeanblanc and Marek Rutkowski – Pricing and hedging of credit risk: replication and mean-variance approaches. I [MR 2076289]
+Tomasz R. Bielecki, Monique Jeanblanc and Marek Rutkowski – Pricing and hedging of credit risk: replication and mean-variance approaches. II [MR 2076530]
+René Carmona and Michael Ludkovski – Spot convenience yield models for the energy markets [MR 2076531]
+Netzahualcóyotl Castañeda-Leyva and Daniel Hernández-Hernández – Optimal portfolio management with consumption [MR 2076532]
+T. E. Duncan – Some processes associated with a fractional Brownian motion [MR 2076533]
+Robert J. Elliott and John van der Hoek – Pricing claims on non tradable assets [MR 2076534]
+Wendell H. Fleming – Some optimal investment, production and consumption models [MR 2076535]
+Jean-Pierre Fouque and Chuan-Hsiang Han – Asian options under multiscale stochastic volatility [MR 2076536]
+Xin Guo – A regime switching model: statistical estimation, empirical evidence, and change point detection [MR 2076537]
+Floyd B. Hanson, John J. Westman and Zongwu Zhu – Multinomial maximum likelihood estimation of market parameters for stock jump-diffusion models [MR 2076538]
+Ulrich G. Haussmann and Jörn Sass – Optimal terminal wealth under partial information for HMM stock returns [MR 2076539]
+Kurt Helmes – Computing optimal selling rules for stocks using linear programming [MR 2076540]
+Yaozhong Hu – Optimization of consumption and portfolio and minimization of volatility [MR 2076541]
+Mattias Jonsson and Ronnie Sircar – Options: to buy or not to buy? [MR 2076542]
+H. Kaise and S. J. Sheu – Risk sensitive optimal investment: solutions of the dynamical programming equation [MR 2076543]
+Andrew E. B. Lim – Hedging default risk in an incomplete market [MR 2076544]
+Andrew E. B. Lim and Xun Yu Zhou – Mean-variance portfolio choice with discontinuous asset prices and nonnegative wealth processes [MR 2076545]
+Marek Musiela and Thaleia Zariphopoulou – Indifference prices of early exercise claims [MR 2076546]
+Bozenna Pasik-Duncan – Random walk around some problems in identification and stochastic adaptive control with applications to finance [MR 2076547]
+Eckhard Platen – Pricing and hedging for incomplete jump diffusion benchmark models [MR 2076548]
+L. C. G. Rogers – Why is the effect of proportional transaction costs [MR 2076549]
+Wolfgang J. Runggaldier – Estimation via stochastic filtering in financial market models [MR 2076550]
+Jerome L. Stein – Stochastic optimal control modeling of debt crises [MR 2076551]
+Lukasz Stettner – Duality and risk sensitive portfolio optimization [MR 2076552]
+Richard H. Stockbridge – Characterizing option prices by linear programs [MR 2076553]
+J. W. Wang and Q. Zhang – Pricing defaultable bond with regime switching [MR 2076554]
+Shu Wu and Yong Zeng – Affine regime-switching models for interest rate term structure [MR 2076555]
+G. Yin and Q. Zhang – Stochastic approximation methods for some finance problems [MR 2076556]
+
+
 
 
 
