@@ -186,6 +186,7 @@ Inefficiency and bias of modified value-at-risk and expected shortfall
 
 [Stochastic Interest Rate Models with Memory: Long-Term Behavior](https://doi.org/10.1007/978-3-319-46979-9_5)
 
+Mathematics of Finance: Proceedings of an AMS-IMS-SIAM Joint Summer Research
 
 
 
