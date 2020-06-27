@@ -33,6 +33,30 @@ Long-Memory Processes: Probabilistic Properties and Statistical Methods
 
 [Handbook of Heavy-Tailed Distributions in Asset Management and Risk Management](https://doi.org/10.1142/11118)
 
+Stochastic Analysis and Applications to Finance - Essays in Honour of Jia-an Yan
+
+ J. van der Hoek and R.J. Elliott, Hitting times in a Markov chain model.
+ 
+ R.J. Elliott and P.E. Kopp, Mathematics of Financial Markets.
+ 
+ Filtering with Counting Process Observations and Other Factors: Applications to Bond Price Tick Data
+ 
+ Optimal Reinsurance under a Jump Diffusion Model
+ 
+ Applications of Counting Processes and Martingales in Survival Analysis
+ 
+ Stochastic Algorithms and Numerics for Mean-Reverting Asset Trading
+ 
+ Stochastic Control Methods for the Problem of Optimal Compensation of Executives
+ 
+ On Delay Estimation and Testing for Diffusion Type Processes
+ 
+CHAPTER 12- CONTROL OF STOCHASTIC DIFFERENTIAL EQUATIONS
+
+Two-Time-Scale Switching Jump Diffusions
+
+Stochastic Volatility Using Regime-Switching Diffusions
+
 [High-Dimensional Statistics - A Non-Asymptotic Viewpoint](https://doi.org/10.1017/9781108627771)
 
 [Heavy Tails and Copulas: Topics in Dependence Modelling in Economics and Finance](https://doi.org/10.1142/9644)
@@ -157,6 +181,10 @@ The eigenstructure of the sample covariance matrices of high-dimensional stochas
 Inefficiency and bias of modified value-at-risk and expected shortfall
 
 [Frontiers in Time Series and Financial Econometrics](https://www.sciencedirect.com/journal/journal-of-econometrics/vol/189/issue/2)
+
+[Stochastic Differential Equations with Markovian Switching](https://doi.org/10.1142/p473)
+
+[Stochastic Interest Rate Models with Memory: Long-Term Behavior](https://doi.org/10.1007/978-3-319-46979-9_5)
 
 
 
