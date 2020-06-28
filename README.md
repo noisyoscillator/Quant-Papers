@@ -222,6 +222,18 @@ J. W. Wang and Q. Zhang – Pricing defaultable bond with regime switching [MR 2
 Shu Wu and Yong Zeng – Affine regime-switching models for interest rate term structure [MR 2076555]
 G. Yin and Q. Zhang – Stochastic approximation methods for some finance problems [MR 2076556]
 
+Long-term behavior of stochastic interest rate models with jumps and memory
+
+Power and Bipower Variation with Stochastic Volatility and Jumps
+
+Self-Exciting Jumps, Learning, and Asset Pricing Implications
+
+Zhao, J. (2009). Long time behaviour of stochastic interest rate models. Insurance: Mathematics and Economics, 44, 459–463.
+
+Stability of a pure random delay system with two-time-scale Markovian switching
+
+
+
 
 
 
