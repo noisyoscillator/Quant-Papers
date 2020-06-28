@@ -232,6 +232,11 @@ Zhao, J. (2009). Long time behaviour of stochastic interest rate models. Insuran
 
 Stability of a pure random delay system with two-time-scale Markovian switching
 
+Statistics of Financial Markets:An Introduction
+Authors: Franke, Jürgen, Härdle, Wolfgang Karl, Hafner, Christian Matthias
+
+
+
 
 
 
