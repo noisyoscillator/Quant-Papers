@@ -235,6 +235,9 @@ Stability of a pure random delay system with two-time-scale Markovian switching
 Statistics of Financial Markets:An Introduction
 Authors: Franke, Jürgen, Härdle, Wolfgang Karl, Hafner, Christian Matthias
 
+Physics and Derivatives: Effective-Potential Path-Integral Approximations of
+Arrow-Debreu Densities [IMPORTANT]
+
 
 
 
