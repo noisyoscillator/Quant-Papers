@@ -238,6 +238,9 @@ Authors: Franke, Jürgen, Härdle, Wolfgang Karl, Hafner, Christian Matthias
 Physics and Derivatives: Effective-Potential Path-Integral Approximations of
 Arrow-Debreu Densities [IMPORTANT]
 
+Textual analysis and machine leaning: Crack unstructured data in finance and accounting
+
+Dynamic jump intensities and news arrival in oil futures markets
 
 
 
