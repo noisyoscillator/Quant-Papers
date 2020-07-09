@@ -243,6 +243,7 @@ Textual analysis and machine leaning: Crack unstructured data in finance and acc
 Dynamic jump intensities and news arrival in oil futures markets
 
 
+Entropy of Graphs in Financial Markets
 
 
 
